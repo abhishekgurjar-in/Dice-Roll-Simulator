@@ -1,3 +1,4 @@
+# Dice Roll Simulator Website
 ## Introduction
 
 Hello, fellow developers! Today, I'm excited to share a project I recently completed: a **Dice Roll Simulator**. This project is a fun and interactive way to simulate the rolling of a dice, making it a great way to practice JavaScript, especially in the areas of DOM manipulation and event handling. Whether you're looking to build something playful or need a simple dice roll feature for a game, this project is a perfect start.
