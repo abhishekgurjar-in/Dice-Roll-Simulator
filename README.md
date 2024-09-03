@@ -20,7 +20,6 @@ The **Dice Roll Simulator** allows users to simulate the roll of a six-sided dic
 - **CSS**: Applied for styling the webpage and adding animations.
 - **JavaScript**: Implemented for handling the dice roll logic, updating the DOM, and managing animations.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
